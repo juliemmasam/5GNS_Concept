@@ -32,7 +32,7 @@ The resources allocations detailing NF placement in the SCs defining the NSs, an
 The work herein requires that it is deployed in a test bed or a real network. To do this, one requires to consider the intricacies of traffic traversing the network, thereby implementing the required network protocols in gathering and processing the data. Furthermore, depending on the deployment and how the networks are run, it is necessary to develop a universal framework for automated NF placement, in this case considering the capacity requirements that impact the QoS. 
 
 # Ongoing 
-This work has been submitted for revision in IEEE CCNC 2025 Conference.
+This work has been submitted for revision in IEEE ICNC 2025 Conference.
 
 <!-- # Citation
 Emmanuel J Samson, Kamrul Hasan, Liang Hong, Sachin Shetty, Imtiaz Ahmed, Henry Onyeka (2024). Enhancing UAV Security Through Zero Trust Architecture: An Advanced Deep Learning and Explainable AI Analysis. 2024 Workshop on Computing, Networking and Communications (CNC), IEEE. -->

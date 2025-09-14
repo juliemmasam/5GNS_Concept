@@ -7,7 +7,7 @@ This repository contains the code and research paper for the work titled "Optimi
 Advancements in fifth generation (5G) technology have seen a rise in adapting network slicing (NS) to differentiate the services offered in different network segments due to dif- ferences in performance requirements and traffic characteristics. With the growing demand for network automation, several works have explored the concepts of intelligent network slicing. This work, however, demonstrates an approach to traffic prediction that informs network function (NF) resource demands based on the traffic pattern studied in the network slices (NSs). Using traffic volume as the basis for sharing resources among NFs in the NSs, Long Short-Term Memory (LSTM) algorithm is used to study and predict the traffic patterns. This prediction is then used as input to the resources allocation algorithm, that is based on game theory, where the resources are allocated dynamically and fairly amongst the NSs. The work demonstrates a foundation on which all other resources allocation–in the Radio Access Network (RAN), Transport Network (TN), and Core Network (CN)–can be based on to formulate strategic resource sharing amongst NFs.
 
 # Contents
-\- Code: The source code used to implement develop the concept and test it.
+\- Code: The source code used to implement develop the concept and test it.  
 \- Paper: The full research paper detailing the methodological approaches and results.
 
 

@@ -40,5 +40,5 @@ E. J. Samson, K. Hasan, L. Hong, I. Ahmed, H. Onyeka and S. Shetty, "Optimizing 
 # Contact
 For questions or collaborations, please contact:
 
-Emmanuel Samson - esamson@tnstate.edu
+Emmanuel Samson - esamson@tnstate.edu 
 Kamrul Hasan - mhasan1@tnstate.edu

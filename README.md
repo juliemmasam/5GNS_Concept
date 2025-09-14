@@ -34,8 +34,8 @@ The work herein requires that it is deployed in a test bed or a real network. To
 # Publication 
 This work was accepted and publicshed in [IEEE ICNC 2025 Conference, pp. 282-287](https://ieeexplore.ieee.org/abstract/document/10993583).
 
-<!-- # Citation
-Emmanuel J Samson, Kamrul Hasan, Liang Hong, Sachin Shetty, Imtiaz Ahmed, Henry Onyeka (2024). Enhancing UAV Security Through Zero Trust Architecture: An Advanced Deep Learning and Explainable AI Analysis. 2024 Workshop on Computing, Networking and Communications (CNC), IEEE. -->
+# Citation
+E. J. Samson, K. Hasan, L. Hong, I. Ahmed, H. Onyeka and S. Shetty, "Optimizing 5G Network Slices: LSTM and Game Theory Synergy," 2025 International Conference on Computing, Networking and Communications (ICNC), Honolulu, HI, USA, 2025, pp. 282-287, doi: 10.1109/ICNC64010.2025.10993583. keywords: {Intelligent networks;5G mobile communication;Heuristic algorithms;Traffic control;Prediction algorithms;Resource management;Noise measurement;Game theory;Long short term memory;Radio access networks;5G;NF Placement;Intelligent Network Slices}
 
 
 # Contact

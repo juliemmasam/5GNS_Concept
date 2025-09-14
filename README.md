@@ -12,18 +12,17 @@ Paper: The full research paper detailing the methodological approaches and resul
 
 
 # Features
-Cellular network traffic data simulation 5G (eMBB, URLLC, mMTC)
-Cellular network traffic prediction/forecasting with LSTM
-Network resources allocation and optimization using Game Theory
+- Cellular network traffic data simulation 5G (eMBB, URLLC, mMTC)
+- Cellular network traffic prediction/forecasting with LSTM
+- Network resources allocation and optimization using Game Theory
 
 # Requirements
-Requirements
-Python 3.12+
-TensorFlow
-Keras
-NumPy
-Scikit-learn
-Matplotlib
+- Python 3.12+
+- TensorFlow
+- Keras
+- NumPy
+- Scikit-learn
+- Matplotlib
 
 # Results
 The resources allocations detailing NF placement in the SCs defining the NSs, and as orchestrated by the current NFV and approaches show a promising direction towards automated physical and network resources utilizations by emonstrating the allocation/distribution of two resources available for the NSs. The first is the bandwidth, which is necessary for the transmission of packets to and from the NFs running in the NSs, and the second is the memory, which is at the core of information processing of the NFs. In this regard, it is necessary to note that the NFs run in the servers. And, while the NFs capacities are always defined at their deployment, and the requirements are pre- configured, it is in the 5G and beyond vision that the NFs should utilize only the resources they require. For this reason, the presence of a single cluster of servers that hosts the NFs with imaginary 1GB of memory and a network interface configured with 1Gbps of bandwidth is assumed.
